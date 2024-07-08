@@ -1,3 +1,6 @@
 desde la pc local
 
+
 mis cambios en este archivo desde una ubicación local
+
+cambios nuevos en este archivo
